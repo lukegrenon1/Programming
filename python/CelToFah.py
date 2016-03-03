@@ -7,4 +7,4 @@ def to_celsius(fahrenheit):
 tempature = to_celsius(fahrenheit)
 print(tempature)    
 
-# Gets temp from fah
+# Converts temp to celsius
